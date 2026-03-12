@@ -19,16 +19,16 @@ My classwork for [BIMM143](https://bioboot.github.io/bimm143_W26/) at UC San Die
 
 - Class 10 [Structural Bioinformatics 1]
 
-- Class 11 
+- Class 11 [Structural Bioinformatics (pt2. Focus on new AlphaFold2)]
 
-- Class 12
+- Class 12 [Genome informatics ]
 
-- Class 13
+- Class 13 [Transcriptomics and the analysis of RNA-Seq data]
 
-- Class 14
+- Class 14 [RNA-Seq analysis mini-project]
 
 - Class 17 [AWS](class17.qmd)
 
-- Class 18 
+- Class 18 [Mini Project: Investigating Pertussis Resurgence]
 
-- Class 19 
+- Class 19 [Mini Project: Cancer Mutation Analysis]
