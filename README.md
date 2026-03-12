@@ -19,7 +19,7 @@ My classwork for [BIMM143](https://bioboot.github.io/bimm143_W26/) at UC San Die
 
 - Class 10 [Structural Bioinformatics 1]
 
-- Class 11 [Structural Bioinformatics (pt2. Focus on new AlphaFold2)]
+- Class 11 [Structural Bioinformatics (pt2. Focus on new AlphaFold2)](class11/class11.md)
 
 - Class 12 [Genome informatics ]
 
