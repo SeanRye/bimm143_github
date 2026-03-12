@@ -11,15 +11,15 @@ My classwork for [BIMM143](https://bioboot.github.io/bimm143_W26/) at UC San Die
 
 - Class 06 [R Functions](class06/class06.qmd)
 
-- Class 07
+- Class 07 [Machine Learning 1]
 
-- Class 08
+- Class 08 [Cancer Mini-project]
 
-- Class 09
+- Class 09 [Candy Mini-project]
 
-- Class 10
+- Class 10 [Structural Bioinformatics 1]
 
-- Class 11
+- Class 11 
 
 - Class 12
 
@@ -29,6 +29,6 @@ My classwork for [BIMM143](https://bioboot.github.io/bimm143_W26/) at UC San Die
 
 - Class 17 [AWS](class17.qmd)
 
-- Class 18
+- Class 18 
 
-- Class 19
+- Class 19 
