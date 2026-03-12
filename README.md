@@ -13,7 +13,7 @@ My classwork for [BIMM143](https://bioboot.github.io/bimm143_W26/) at UC San Die
 
 - Class 07 [Machine Learning 1](class07/class07.md)
 
-- Class 08 [Cancer Mini-project]
+- Class 08 [Cancer Mini-project](class08/class08miniproject)
 
 - Class 09 [Candy Mini-project](class09/class09miniproject.md)
 
