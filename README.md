@@ -27,6 +27,8 @@ My classwork for [BIMM143](https://bioboot.github.io/bimm143_W26/) at UC San Die
 
 - Class 14
 
+- Class 17 [AWS](class17.qmd)
+
 - Class 18
 
 - Class 19
