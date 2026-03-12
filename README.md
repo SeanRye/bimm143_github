@@ -27,8 +27,8 @@ My classwork for [BIMM143](https://bioboot.github.io/bimm143_W26/) at UC San Die
 
 - Class 14 [RNA-Seq analysis mini-project]
 
-- Class 17 [AWS](class17.qmd)
+- Class 17 [AWS](class17.qmd)(class17/class17.pdf)
 
 - Class 18 [Mini Project: Investigating Pertussis Resurgence]
 
-- Class 19 [Mini Project: Cancer Mutation Analysis]
+- Class 19 [Mini Project: Cancer Mutation Analysis](class19/lab19.pdf)
